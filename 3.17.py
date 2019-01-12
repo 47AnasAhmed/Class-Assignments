@@ -1,0 +1,5 @@
+print("Anas Ahmed")
+print("(18B-116-CS),Sec-A")
+print("Practice Problem 3.17(e)")
+e = eval('x=5')
+print(e)

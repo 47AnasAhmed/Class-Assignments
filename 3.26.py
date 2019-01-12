@@ -1,0 +1,6 @@
+print("Anas Ahmed")
+print("(18B-116-CS),Sec-A")
+print("Practice Problem 3.26")
+l_ele = eval(input("Enter A List"))
+print("Enter First List Element:", l_ele[0])
+print("Enter Last List Element:", l_ele[-1])
